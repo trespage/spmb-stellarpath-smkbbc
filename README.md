@@ -41,7 +41,7 @@ spmb-stellapath-smkbbc/
 ├── index.html
 ├── README.md
 └── PRD.md
-
+```
 👥 Tim Pengembang (StellarPath XI.PPLG-1)
 
 ​Proyek ini dirancang dan dibangun secara kolaboratif oleh:
