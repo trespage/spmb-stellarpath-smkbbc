@@ -86,5 +86,6 @@ Projek ini dirancang, dikoding, dan dikelola secara kolaboratif penuh oleh kelom
  2. 📝 **Meliza Meilani** 
  3. 🎨 **Nur Aprilia** 
  4. 🔍 **Seina Apriliani**
+    
 © 2026 SMK Budi Bakti Ciwidey. Hak Cipta Dilindungi Undang-Undang.
 ```
