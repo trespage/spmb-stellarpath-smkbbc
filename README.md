@@ -7,7 +7,7 @@ Aplikasi berbasis web ini merupakan halaman landing page resmi untuk keperluan S
 
 ## 🚀 Tautan Live Project
 Website ini sudah aktif di server hosting dan siap diakses secara publik melalui tautan:
-🔗 **[Lihat Website Live Di Sini](https://spmb-stellapath-smkbbc.netlify.app)**
+🔗 **[Lihat Website Live Di Sini](https://spmb-stellarpath-smkbbc.netlify.app)**
 
 ---
 
