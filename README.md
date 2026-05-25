@@ -83,8 +83,8 @@ Jika Anda ingin menyalin dan menjalankan projek ini di lingkungan komputer lokal
 ## 👥 Tim Pengembang (StellarPath — XI PPLG-1)
 Projek ini dirancang, dikoding, dan dikelola secara kolaboratif penuh oleh kelompok kami:
  1. 💻 **Anggia Tresa Putri** 
- 2. 🎨 **Meliza Meilani** 
- 3. 📝 **Nur Aprilia** 
+ 2. 📝 **Meliza Meilani** 
+ 3. 🎨 **Nur Aprilia** 
  4. 🔍 **Seina Apriliani**
 © 2026 SMK Budi Bakti Ciwidey. Hak Cipta Dilindungi Undang-Undang.
 ```
