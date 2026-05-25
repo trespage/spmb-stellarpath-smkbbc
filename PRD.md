@@ -24,10 +24,10 @@ Fokus utama dari pengembangan tahap ini adalah melakukan *slicing* desain menjad
 ## 3. Kriteria Spesifikasi Fungsional (Fitur Antarmuka)
 
 ### 3.1 Sistem Navigasi Komponen Adaptif (Responsive Navbar)
-* **Skenario Layar Desktop (Lebar ≥ 1024px):**
+* **Skenario Layar Desktop:**
   * Navbar atas bersifat *sticky* atau menetap di atas halaman saat di-scroll.
   * Menampilkan menu horizontal penuh untuk mempermudah perpindahan pandangan halaman.
-* **Skenario Layar Mobile (Lebar < 768px):**
+* **Skenario Layar Mobile:**
   * Navbar atas otomatis disembunyikan untuk menghemat ruang vertikal layar HP.
   * Mengaktifkan komponen *Sticky Mobile Bottom Navigation* di bagian bawah layar untuk kenyamanan jangkauan jempol pengguna saat menggenggam HP.
 
