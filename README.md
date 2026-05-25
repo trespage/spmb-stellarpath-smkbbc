@@ -1,54 +1,46 @@
-# 🏫 Landing Page SPMB SMK Budi Bakti Ciwidey 2026
-> Tugas Kokurikuler Kejuruan PPLG - Tahap Slicing Desain & Live Deployment.
+# SPMB 2026 - SMK Budi Bakti Ciwidey
 
-Aplikasi berbasis web ini merupakan halaman landing page resmi untuk keperluan Sistem Penerimaan Peserta Didik Baru (SPMB) SMK Budi Bakti Ciwidey Angkatan 2026/2027. Dikembangkan oleh tim internal dengan menerapkan standarisasi penulisan kode semantik dan tata letak modern.
+Website landing page untuk Sistem Penerimaan Peserta Didik Baru (SPMB) SMK Budi Bakti Ciwidey Tahun Ajaran 2026.
 
----
+## 📋 Deskripsi
 
-## 🚀 Tautan Live Project
-Website ini sudah aktif di server hosting dan siap diakses secara publik melalui tautan:
-🔗 **[Lihat Website Live Di Sini](https://spmb-stellapath-smkbbc.netlify.app)**
+Website ini merupakan landing page modern dan responsif untuk mendukung program penerimaan siswa baru SMK Budi Bakti Ciwidey. Website ini dirancang dengan fokus pada user experience yang optimal di berbagai perangkat (desktop, tablet, dan mobile).
 
----
+## ✨ Fitur Utama
 
-## 🛡️ Fitur Unggulan Sistem
-* **Full Responsive Grid:** Penataan elemen halaman otomatis menyesuaikan lebar resolusi layar ponsel hingga monitor desktop.
-* **Modern Interface:** Pewarnaan gradasi estetik menggunakan basis kelas utilitas Tailwind CSS.
-* **Smart Mobile Navigation:** Batang menu navigasi diletakkan di sisi bawah layar untuk kemudahan akses satu tangan pada perangkat mobile.
-* **WhatsApp Direct Form:** Input data registrasi terintegrasi langsung yang otomatis menyusun draf pesan konfirmasi ke nomor admin.
-* **Micro Interactions:** Animasi transisi hover interaktif pada tombol Call to Action (CTA) utama.
+- **Responsive Design**: Tampilan optimal di desktop, tablet, dan mobile
+- **Modern UI/UX**: Desain clean dan profesional dengan gradient background
+- **Mobile-First Approach**: Bottom navigation untuk kemudahan akses mobile
+- **Smooth Animations**: Fade-in animations dan hover effects
+- **Program Keahlian**: Informasi lengkap tentang jurusan (DKV, PPLG, BRP)
+- **Form Pendaftaran**: Form registrasi online yang terintegrasi dengan WhatsApp
+- **Informasi Kontak**: Integration dengan WhatsApp untuk informasi lebih lanjut
 
----
+## 🛠️ Teknologi
 
-## ⚙️ Spesifikasi Teknis (Tech Stack)
-* **HTML5 Core** - Sebagai kerangka utama struktur dokumen web.
-* **Tailwind CSS Framework** - Manajemen *styling*, tata letak, dan sistem responsif halaman.
-* **Vanilla JavaScript** - Logika pengolah form pendaftaran dan fungsionalitas hamburger menu.
-* **Google Fonts (Inter)** - Sumber fontasi utama guna menjaga konsistensi tipografi teks.
+- **HTML5**: Struktur halaman semantik
+- **Tailwind CSS**: Utility-first CSS framework
+- **JavaScript (Vanilla)**: Interaktivitas tanpa framework
+- **Google Fonts**: Typography Inter
+- **Lucide Icons**: Icon set modern
 
----
+## 📱 Fitur Responsif
 
-## 📂 Pohon Struktur File
-Struktur susunan file proyek diatur dengan standarisasi sebagai berikut:
-```text
-spmb-stellapath-smkbbc/
-├── assest/
-│   └── img/
-│       ├── logo.png
-│       ├── model.png
-│       ├── lapang.png.jpeg
-│       └── mockup-web.png
-├── index.html
-├── README.md
-└── PRD.md
+### Desktop
+- Navbar dengan menu lengkap
+- Grid layout untuk program keahlian
+- Horizontal layout untuk hero section
 
-👥 Tim Pengembang (StellarPath XI.PPLG-1)
+### Mobile
+- Bottom navigation bar
+- Carousel untuk program keahlian
+- Stacked layout untuk konten
+- Hamburger menu
 
-​Proyek ini dirancang dan dibangun secara kolaboratif oleh:
+## 🚀 Cara Penggunaan
 
-1. Anggia Tresa Putri
-2. Meliza Meilani
-3. Nur Aprilia
-4. Seina Apriliani
+1. Clone atau download repository ini
+2. Buka file `index.html` di browser
+3. Untuk development, gunakan Live Server (VS Code extension)
 
-​© 2026 SMK Budi Bakti Ciwidey. All rights reserved.
+## 📁 Struktur Folder
